@@ -1,0 +1,15 @@
+{
+    "title": "Como Melhorar Suas Buscas no Angular com Fuse.js",
+    "cover": "https://github.com/user-attachments/assets/1af8dc86-e08e-41dd-8f4d-2948784fc2c9",
+    "description": "Neste vídeo, mostro como implementar buscas inteligentes usando a lib Fuse.js no Angular. Aprenda a criar uma busca por aproximação que melhora a experiência do usuário, tornando suas aplicações mais eficientes. Vou explicar passo a passo como configurar e usar essa funcionalidade poderosa no seu projeto com JavaScript. Se você quer otimizar suas buscas, este vídeo é para você!",
+    "duration": "04:55",
+    "video": "https://github.com/user-attachments/assets/2f2693ec-d495-4ae4-8659-b9af8de4c278",
+    "tags": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Front-End",
+        "Fuse.js"
+    ],
+    "date": "18/12/2024"
+}
