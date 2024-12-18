@@ -2,7 +2,7 @@
 
 <p align="center">Este repositório contém vídeos educativos com dicas, aulas e tutoriais sobre tecnologia.</p>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>#</th>
