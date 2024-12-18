@@ -1,6 +1,6 @@
 # Como Melhorar Suas Buscas no Angular com Fuse.js
 
-![Thumbnail](.github/thumbnail.jpeg)
+![thumbnail](https://github.com/user-attachments/assets/1af8dc86-e08e-41dd-8f4d-2948784fc2c9)
 
 ## Descrição
 
@@ -12,8 +12,7 @@ Neste vídeo, mostro como implementar buscas inteligentes usando a lib Fuse.js n
 - **Tags:** Angular, Front-End, JavaScript, TypeScript, Fuse.js  
 - **Data de Publicação:** 18/12/2024  
 
-## Link para o Vídeo
+## Vídeo
 
-Clique no botão abaixo para assistir:
+https://github.com/user-attachments/assets/2f2693ec-d495-4ae4-8659-b9af8de4c278
 
-🎥 [Assistir ao Vídeo](.github/video.mp4)
