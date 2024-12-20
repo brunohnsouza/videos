@@ -18,5 +18,11 @@
       <td>18/12/2024</td>
       <td><img src="./1/.github/thumbnail.jpeg" alt="Thumbnail" width="100"></td>
     </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="./2/">Orientação a Objetos vs. Funcional: Qual Escolher?</a></td>
+      <td>20/12/2024</td>
+      <td><img src="./2/.github/thumbnail.jpeg" alt="Thumbnail" width="100"></td>
+    </tr>
   </tbody>
 </table>
