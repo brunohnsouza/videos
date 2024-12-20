@@ -14,7 +14,5 @@ Neste vídeo, mostro como implementar buscas inteligentes usando a lib Fuse.js n
 
 ## Vídeo
 
-<video controls align="center">
-    <source src=".github/video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/57281038-7cd0-435d-b647-d7d29f523376
 
