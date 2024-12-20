@@ -14,7 +14,6 @@ Neste vídeo, apresento um guia prático sobre como escolher entre os paradigmas
 
 ## Vídeo
 
-<video controls align="center">
-    <source src=".github/video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/3f209366-f7d0-4006-9fc1-d1ca4f491513
+
 
