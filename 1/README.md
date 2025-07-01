@@ -1,18 +1,19 @@
-# Como Melhorar Suas Buscas no Angular com Fuse.js
+# Orientação a Objetos vs. Funcional: Qual Escolher?
 
 ![Thumbnail](.github/thumbnail.jpeg)
 
 ## Descrição
 
-Neste vídeo, mostro como implementar buscas inteligentes usando a lib Fuse.js no Angular. Aprenda a criar uma busca por aproximação que melhora a experiência do usuário, tornando suas aplicações mais eficientes. Vou explicar passo a passo como configurar e usar essa funcionalidade poderosa no seu projeto com JavaScript. Se você quer otimizar suas buscas, este vídeo é para você!
+Neste vídeo, apresento um guia prático sobre como escolher entre os paradigmas de programação orientada a objetos e funcional na arquitetura do seu projeto. Utilizando um mapa mental e exemplos de código simples, vou explicar as vantagens de cada paradigma e em quais situações eles brilham. Venha descobrir a melhor abordagem para o seu desenvolvimento!
 
 ## Informações
 
-- **Duração:** 04:55  
-- **Tags:** Angular, Front-End, JavaScript, TypeScript, Fuse.js  
-- **Data de Publicação:** 18/12/2024  
+- **Duração:** 05:29  
+- **Tags:** Orientação a Objetos, Programação Funcional, Paradigmas de Programação, Arquitetura de Software  
+- **Data de Publicação:** 20/12/2024  
 
 ## Vídeo
 
-https://github.com/user-attachments/assets/57281038-7cd0-435d-b647-d7d29f523376
+https://github.com/user-attachments/assets/3f209366-f7d0-4006-9fc1-d1ca4f491513
+
 
