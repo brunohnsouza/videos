@@ -14,4 +14,4 @@ Nesse vídeo, te mostro — de um jeito leve, direto e visual — como essa etap
 
 ## Vídeo
 
-
+https://github.com/user-attachments/assets/5f45f8ee-15f4-45ec-9cf9-5b8e2ad82603
